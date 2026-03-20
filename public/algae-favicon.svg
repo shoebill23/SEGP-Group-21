@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Single large leaf design -->
+  <g transform="translate(32, 32)">
+    <!-- Main leaf shape - much larger -->
+    <path d="M 0 -24 Q 14 -16 16 0 Q 14 16 0 24 Q -14 16 -16 0 Q -14 -16 0 -24" fill="#3d6a41" stroke="#2d5a31" stroke-width="1"/>
+    
+    <!-- Leaf vein -->
+    <path d="M 0 -24 Q 0 0 0 24" stroke="#2d5a31" stroke-width="1" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
